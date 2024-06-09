@@ -26,6 +26,7 @@ A API fornece os seguintes endpoints para gerenciar tarefas:
 3. Atualizar uma tarefa
 4. Remover uma tarefa
 
+![Uso](https://i.imgur.com/XXgNcXO.jpeg)
 Corpo da requisição:
 {
   "titulo": "Nova Tarefa",
