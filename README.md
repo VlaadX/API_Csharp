@@ -9,12 +9,12 @@
 
 - [Sobre](#sobre)
 - [Uso](#uso)
-- [Instalação](#Instalação)
+- [Instalação](#instalação)
 
 
 ## Sobre
 
-A Task Manager API é uma aplicação desenvolvida em C# com .NET que permite aos usuários gerenciar suas tarefas diárias. Com esta API, os usuários podem criar, listar, alterar e remover tarefas. Cada tarefa inclui um título, descrição e um indicador de se foi realizada ou não.
+A Task Manager API é uma aplicação desenvolvida em C# com .NET que permite aos usuários gerenciar suas tarefas diárias, armazenando em um banco de dados MySQL.
 
 
 ## Uso
